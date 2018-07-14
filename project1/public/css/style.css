@@ -1,0 +1,17 @@
+.wrapper{
+	width: 988px;
+	margin: 0px auto;
+}
+.form{
+	margin-top: 40px;
+}
+
+#dashboard-side{
+	background: #f3f3f3;
+	min-height: 400px;
+	margin-right: 5px;
+}
+#dashboard-main{
+	background: #f3f3f3;
+	min-height: 400px;
+}
